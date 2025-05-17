@@ -63,3 +63,17 @@ print(type(comprado))
 #Dicionário
 compras = {"arroz":"2kg", "carne":"3kg"}
 print(type(compras))
+
+a = 10
+a = - a
+print(a)
+a = + a
+print(a)
+
+a=2
+b=8
+print(b%a)
+print(a%b)
+print(a//b)
+print(a/b)
+print(b**a)
